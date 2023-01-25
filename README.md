@@ -11,5 +11,5 @@ There are several ways to run a Spring Boot application on your local machine. O
 	 http://localhost:8080/countries
        
        
-#### First GET endpoint
+#### Second GET endpoint
      http://localhost:8080/countries/name_of_the_country
